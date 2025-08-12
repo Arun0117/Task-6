@@ -1,39 +1,48 @@
-Java GUI – ToDo App
-Objective
-Build a To-Do List desktop application using Java Swing to practice GUI development and event-driven programming.
+# Java GUI – ToDo App
 
-Tools
-Language: Java
+## **Objective**
 
-GUI Library: Swing (built-in in Java)
+Build a **To-Do List** desktop application using **Java Swing** to practice GUI development and event-driven programming.
 
-IDE: IntelliJ IDEA Community Edition / Eclipse
+---
 
-Deliverables
-A functional Java Swing application (.java file) that allows:
+## **Tools**
 
-Adding tasks
+* **Language:** Java
+* **GUI Library:** Swing (built-in in Java)
+* **IDE:** IntelliJ IDEA Community Edition / Eclipse
 
-Deleting tasks
+---
 
-Displaying the task list
+## **Deliverables**
 
-Hints / Mini Guide
-Use JFrame for the main window.
+A functional Java Swing application (`.java` file) that allows:
 
-Use JTextField for entering tasks.
+* Adding tasks
+* Deleting tasks
+* Displaying the task list
 
-Use JButton for "Add" and "Delete" actions.
+---
 
-Use JList with DefaultListModel to store tasks.
+## **Hints / Mini Guide**
 
-Implement ActionListeners for button click events.
+* Use **`JFrame`** for the main window.
+* Use **`JTextField`** for entering tasks.
+* Use **`JButton`** for **"Add"** and **"Delete"** actions.
+* Use **`JList`** with **`DefaultListModel`** to store tasks.
+* Implement **ActionListeners** for button click events.
 
-Expected Outcome
+---
 
-Understanding of Swing components.
+## **Expected Outcome**
 
-Ability to create event-driven desktop applications in Java.
+* Understanding of Swing components.
+* Ability to create event-driven desktop applications in Java.
 
-![App Screenshot](App Output)
+---
+
+## **Preview Screenshot**
+![ToDo App Screenshot](App Output)
+
+
 
