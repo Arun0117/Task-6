@@ -34,4 +34,6 @@ Expected Outcome
 Understanding of Swing components.
 
 Ability to create event-driven desktop applications in Java.
-![Alt Text](App Output)
+
+![App Screenshot](App Output)
+
