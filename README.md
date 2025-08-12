@@ -31,8 +31,7 @@ Implement ActionListeners for button click events.
 
 Expected Outcome
 
-![Alt Text](image-file-name.png)
-
 Understanding of Swing components.
 
 Ability to create event-driven desktop applications in Java.
+![Alt Text](README.md)
